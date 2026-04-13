@@ -1,0 +1,11 @@
+jsonrpcclient==4.0.3
+pyyaml==6.0.1
+safe-pysha3==1.0.4
+coincurve==20.0.0
+eth-utils==5.1.0
+py-ecc==7.0.0
+web3==7.5.0
+eth_tester
+cffi==1.16.0
+rtoml==0.11.0
+cryptography>=42.0.0

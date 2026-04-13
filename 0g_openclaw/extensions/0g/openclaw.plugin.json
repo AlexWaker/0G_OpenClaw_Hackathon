@@ -1,0 +1,10 @@
+{
+  "id": "0g",
+  "enabledByDefault": true,
+  "providers": ["0g"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

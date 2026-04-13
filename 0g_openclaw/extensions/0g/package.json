@@ -1,0 +1,12 @@
+{
+  "name": "@openclaw/provider-0g",
+  "version": "2026.3.30",
+  "private": true,
+  "description": "OpenClaw 0G Compute provider plugin",
+  "type": "module",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
