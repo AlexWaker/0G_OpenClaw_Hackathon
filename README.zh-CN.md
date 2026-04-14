@@ -25,6 +25,8 @@
         <img src="img/screen.png" alt="0G OpenClaw logo">
 </p>
 
+Demo Video: https://www.youtube.com/watch?v=UQuXa4rrlTs
+
 ## 仓库结构
 
 ```text
