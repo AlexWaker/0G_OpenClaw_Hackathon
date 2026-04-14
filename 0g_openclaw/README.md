@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# ☪️ OpenClaw — Personal AI Assistant
 
 <p align="center">
     <picture>
@@ -488,7 +488,7 @@ Use these when you’re past the onboarding flow and want the deeper reference.
 
 ## Molty
 
-OpenClaw was built for **Molty**, a space lobster AI assistant. 🦞
+OpenClaw was built for **Molty**, a space lobster AI assistant. ☪️
 by Peter Steinberger and the community.
 
 - [openclaw.ai](https://openclaw.ai)

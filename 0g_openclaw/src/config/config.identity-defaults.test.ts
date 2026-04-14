@@ -79,7 +79,7 @@ describe("config identity defaults", () => {
               identity: {
                 name: "Samantha Sloth",
                 theme: "space lobster",
-                emoji: "🦞",
+                emoji: "☪️",
               },
               groupChat: { mentionPatterns: ["@openclaw"] },
             },
@@ -100,7 +100,7 @@ describe("config identity defaults", () => {
       const cfg = await writeAndLoadConfig(home, {
         messages: {
           messagePrefix: "[openclaw]",
-          responsePrefix: "🦞",
+          responsePrefix: "☪️",
         },
         channels: {
           whatsapp: { allowFrom: ["+15555550123"], textChunkLimit: 4444 },
