@@ -25,6 +25,8 @@ The core objective of this project is simple: your agent should not turn into a 
   <img src="img/screen.png" alt="0G OpenClaw screenshot">
 </p>
 
+Demo Video: https://www.youtube.com/watch?v=UQuXa4rrlTs
+
 ## Repository Layout
 
 ```text
@@ -235,9 +237,3 @@ It should be treated as an included upstream source tree, not as a package insid
 ## License and Upstream Ownership
 
 This repository contains multiple upstream codebases. Each subproject keeps its own license and attribution files. Please review the license files inside each subdirectory before redistributing or reusing code.
-
-## Summary
-
-If you want the shortest description of this repository, it is this:
-
-> A hackathon workspace that turns OpenClaw into a 0G-based, cross-machine memory product by combining 0G Storage uploads, 0G KV manifest pointers, a local KV node workflow, and a manual restore path.

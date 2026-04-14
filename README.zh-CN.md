@@ -231,14 +231,7 @@ scripts/dev/openclaw-with-local-zerog-kv.sh pnpm openclaw zerog restore
 
 - `0g_openclaw` 基于 OpenClaw，再在这个 hackathon workspace 中进行扩展。
 - `0g-storage-kv-local` 是 0G Storage KV 仓库的本地源码副本。
-- 当前包含的 KV 源码快照对应的上游提交为 `a5c209a`。
-
+- 
 ## 许可证与上游归属
 
 这个仓库中包含多个上游代码库。每个子项目都保留了自己的 license 与 attribution 文件。在重新分发或复用代码之前，请分别查看各子目录中的许可证文件。
-
-## 总结
-
-如果用一句话来概括这个仓库，它就是：
-
-> 一个将 OpenClaw 变成“基于 0G、可跨机器恢复记忆”的 hackathon workspace，它把 0G Storage 上传、0G KV manifest 指针、本地 KV 节点工作流，以及手动 restore 路径整合到了一起。
