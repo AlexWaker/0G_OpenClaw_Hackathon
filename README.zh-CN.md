@@ -12,7 +12,7 @@
 
 - 只要一个钱包和一点 $0G，你就可以在任意一台机器上唤回同一个 Agent：同样的记忆、同样的上下文、同样的身份。
 - 不需要购买大模型API，可以直接使用0G Compute Market的模型，其输出安全性由0G TEE保障。
-- 基于 OpenClaw 研发，你可以享受到OpenClaw完整的强大功能
+- 基于 [OpenClaw](https://github.com/openclaw/openclaw) 研发，你可以享受到完整的强大功能
 
 这个仓库把这个产品想法和背后的本地 KV 工作流打包在同一个 workspace 里：
 

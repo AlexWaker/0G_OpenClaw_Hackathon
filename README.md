@@ -12,7 +12,7 @@ English | [简体中文](README.zh-CN.md)
 
 - With one wallet and some $0G, you can bring back the same agent on any machine: the same memory, the same context, and the same identity.
 - You do not need to buy a separate proprietary model API. You can use models from the 0G Compute Market directly, with output security backed by 0G TEE.
-- It is built on top of OpenClaw, so you still get the full OpenClaw feature set.
+- It is built on top of [OpenClaw](https://github.com/openclaw/openclaw), so you still get the full OpenClaw feature set.
 
 This repository packages that product idea and the local KV workflow behind it in one workspace:
 
